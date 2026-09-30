@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Prelaunch: HTML uses noindex until domain and real catalog are ready.
